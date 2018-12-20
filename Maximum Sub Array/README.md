@@ -1,6 +1,4 @@
 # Maximum Sub Array Problem
 
 
-Code for Maximum Sub Array Problem
-
-Thanks.
+Code for Maximum Sub Array Problem.
